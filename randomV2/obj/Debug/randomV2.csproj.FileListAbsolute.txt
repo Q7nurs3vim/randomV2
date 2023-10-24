@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\bin\Debug\randomV2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\bin\Debug\randomV2.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\bin\Debug\randomV2.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\obj\Debug\randomV2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\obj\Debug\randomV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\obj\Debug\randomV2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\obj\Debug\randomV2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\obj\Debug\randomV2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\obj\Debug\randomV2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\obj\Debug\randomV2.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\randomV2\randomV2\obj\Debug\randomV2.pdb
